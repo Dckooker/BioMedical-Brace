@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:20:1-50:12
+INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:20:1-50:12
+INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:20:1-50:12
+MERGED from [com.android.support:support-v13:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/2f0fecdd69536584382ccfb366249f9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/c6696029c027dad44415b9940eb5a0ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/26a2c21ad2758058920a38fcd95d5a2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/2e231f8b1065cba14c94f66d352b9246/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/f06673488af3d721b0ad7e6559032ef1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/fb5be4faef5c5dc4310aa5a22a73c209/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/645d0b592e515e8e1640f33b180fa23d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/4618653f1fff1336f61939d3a57676ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/1d83bd95bd2838f581f4b5f074f95c36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/51876bf56a4a269e64d74e2c46a77f25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/9a53823ec7ef61fcd1dc484a61deb573/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/b4adc79169c39456e28590d119a361e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/fe41589fc5085ed6f055c84f76f697aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/7c415ba469cc2bd1e79a9c04c955e79f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/b7796ba7aafd150b2e3ef5526af36f1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/81add021746852eaf18bc5462a853a76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/e2c4f975eb568293e1048e267a377f6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/f3aa77618f4bb22e82e0b6c60c8cdc26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/e579ccd82546596de8670ba1356ad92b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/648101cc07b3bd33c321cd8d9bba996c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/50be0636c8ca42f58ea26037d34f5711/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/07a216862322800e6eb53931b1656b4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/106e527b90562a7f487a655a62fc8e57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/c05bb9787dac6949540245ac47bd94c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/0b2d843a6563b906bfc59bacf39325a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/8ef615e69ba8ee499b64ca9844c9ad54/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/bece7237deb952a6e382d0d8cabfc1e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/1bedf1236bae319881131bd61b190eea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/400fba9f73249565396152312d14eb82/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/8a71922fae6e21e9a87420cfbc19416e/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:20:1-50:12
+INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:20:1-50:12
+	package
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:22:5-28
+		INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:34:22-71
+application
+ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:36:5-48:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/e579ccd82546596de8670ba1356ad92b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/e579ccd82546596de8670ba1356ad92b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/648101cc07b3bd33c321cd8d9bba996c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/648101cc07b3bd33c321cd8d9bba996c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/e579ccd82546596de8670ba1356ad92b/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:36:18-50
+	android:icon
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:37:9-45
+	android:theme
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:38:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:39:9-45:20
+	android:label
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:39:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:43:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:46:9-58
+	android:name
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:46:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:47:9-77
+	android:enabled
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:47:53-75
+	android:name
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml:47:18-52
+uses-sdk
+INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/2f0fecdd69536584382ccfb366249f9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/2f0fecdd69536584382ccfb366249f9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/c6696029c027dad44415b9940eb5a0ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/c6696029c027dad44415b9940eb5a0ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/26a2c21ad2758058920a38fcd95d5a2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/26a2c21ad2758058920a38fcd95d5a2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/2e231f8b1065cba14c94f66d352b9246/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/2e231f8b1065cba14c94f66d352b9246/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/f06673488af3d721b0ad7e6559032ef1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/f06673488af3d721b0ad7e6559032ef1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/fb5be4faef5c5dc4310aa5a22a73c209/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/fb5be4faef5c5dc4310aa5a22a73c209/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/645d0b592e515e8e1640f33b180fa23d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/645d0b592e515e8e1640f33b180fa23d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/4618653f1fff1336f61939d3a57676ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/4618653f1fff1336f61939d3a57676ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/1d83bd95bd2838f581f4b5f074f95c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/1d83bd95bd2838f581f4b5f074f95c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/51876bf56a4a269e64d74e2c46a77f25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/51876bf56a4a269e64d74e2c46a77f25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/9a53823ec7ef61fcd1dc484a61deb573/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/9a53823ec7ef61fcd1dc484a61deb573/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/b4adc79169c39456e28590d119a361e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/b4adc79169c39456e28590d119a361e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/fe41589fc5085ed6f055c84f76f697aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/fe41589fc5085ed6f055c84f76f697aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/7c415ba469cc2bd1e79a9c04c955e79f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/7c415ba469cc2bd1e79a9c04c955e79f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/b7796ba7aafd150b2e3ef5526af36f1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/b7796ba7aafd150b2e3ef5526af36f1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/81add021746852eaf18bc5462a853a76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/81add021746852eaf18bc5462a853a76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/e2c4f975eb568293e1048e267a377f6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/e2c4f975eb568293e1048e267a377f6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/f3aa77618f4bb22e82e0b6c60c8cdc26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/f3aa77618f4bb22e82e0b6c60c8cdc26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/e579ccd82546596de8670ba1356ad92b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/e579ccd82546596de8670ba1356ad92b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/648101cc07b3bd33c321cd8d9bba996c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/648101cc07b3bd33c321cd8d9bba996c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/50be0636c8ca42f58ea26037d34f5711/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/50be0636c8ca42f58ea26037d34f5711/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/07a216862322800e6eb53931b1656b4c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/07a216862322800e6eb53931b1656b4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/106e527b90562a7f487a655a62fc8e57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/106e527b90562a7f487a655a62fc8e57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/c05bb9787dac6949540245ac47bd94c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/c05bb9787dac6949540245ac47bd94c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/0b2d843a6563b906bfc59bacf39325a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/0b2d843a6563b906bfc59bacf39325a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/8ef615e69ba8ee499b64ca9844c9ad54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/thyhax/.gradle/caches/transforms-2/files-2.1/8ef615e69ba8ee499b64ca9844c9ad54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/bece7237deb952a6e382d0d8cabfc1e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/bece7237deb952a6e382d0d8cabfc1e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/1bedf1236bae319881131bd61b190eea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/1bedf1236bae319881131bd61b190eea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/400fba9f73249565396152312d14eb82/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/400fba9f73249565396152312d14eb82/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/8a71922fae6e21e9a87420cfbc19416e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/thyhax/.gradle/caches/transforms-2/files-2.1/8a71922fae6e21e9a87420cfbc19416e/AndroidManifest.xml:20:5-44
+INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+		ADDED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/thyhax/Documents/misc/bmes/BioMedical-Brace/BraceAndroid/Brace/Application/src/main/AndroidManifest.xml
